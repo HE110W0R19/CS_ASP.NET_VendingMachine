@@ -1,0 +1,15 @@
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\bin\Debug\net8.0\VendingMachine.Application.deps.json
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\bin\Debug\net8.0\VendingMachine.Application.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\bin\Debug\net8.0\VendingMachine.Application.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\bin\Debug\net8.0\VendingMachine.Core.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\bin\Debug\net8.0\VendingMachine.Core.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.AssemblyInfoInputs.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.AssemblyInfo.cs
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingM.38339596.Up2Date
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\refint\VendingMachine.Application.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\VendingMachine.Application.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Application\obj\Debug\net8.0\ref\VendingMachine.Application.dll

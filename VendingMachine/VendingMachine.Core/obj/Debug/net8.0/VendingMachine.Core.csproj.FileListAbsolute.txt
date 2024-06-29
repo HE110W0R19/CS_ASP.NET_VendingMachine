@@ -1,0 +1,11 @@
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\bin\Debug\net8.0\VendingMachine.Core.deps.json
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\bin\Debug\net8.0\VendingMachine.Core.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\bin\Debug\net8.0\VendingMachine.Core.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\VendingMachine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\VendingMachine.Core.AssemblyInfoInputs.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\VendingMachine.Core.AssemblyInfo.cs
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\VendingMachine.Core.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\VendingMachine.Core.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\refint\VendingMachine.Core.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\VendingMachine.Core.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.Core\obj\Debug\net8.0\ref\VendingMachine.Core.dll

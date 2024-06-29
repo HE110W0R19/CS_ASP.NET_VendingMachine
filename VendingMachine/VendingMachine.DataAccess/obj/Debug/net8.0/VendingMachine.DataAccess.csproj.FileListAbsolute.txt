@@ -1,0 +1,17 @@
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\bin\Debug\net8.0\VendingMachine.DataAccess.deps.json
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\bin\Debug\net8.0\VendingMachine.DataAccess.runtimeconfig.json
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\bin\Debug\net8.0\VendingMachine.DataAccess.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\bin\Debug\net8.0\VendingMachine.DataAccess.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\bin\Debug\net8.0\VendingMachine.Core.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\bin\Debug\net8.0\VendingMachine.Core.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.csproj.AssemblyReference.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.AssemblyInfoInputs.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.AssemblyInfo.cs
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingM.E353F255.Up2Date
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\refint\VendingMachine.DataAccess.dll
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.pdb
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\VendingMachine.DataAccess.genruntimeconfig.cache
+C:\Users\TuF\Desktop\P\Intravision_Task\VendingMachine\VendingMachine.DataAccess\obj\Debug\net8.0\ref\VendingMachine.DataAccess.dll

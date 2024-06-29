@@ -1,0 +1,6 @@
+@VendingMachine_HostAddress = http://localhost:5223
+
+GET {{VendingMachine_HostAddress}}/VendingMachine/Drink
+Accept: application/json
+
+###

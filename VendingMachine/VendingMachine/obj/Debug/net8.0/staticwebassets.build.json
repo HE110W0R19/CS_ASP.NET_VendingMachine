@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YY9261TlTWlWExlUv2XKxQx2wu1vUFr1klik0EUaAtc=",
+  "Source": "VendingMachine",
+  "BasePath": "_content/VendingMachine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VendingMachine\\wwwroot",
+      "Source": "VendingMachine",
+      "ContentRoot": "C:\\Users\\TuF\\Desktop\\P\\Intravision_Task\\VendingMachine\\VendingMachine\\wwwroot\\",
+      "BasePath": "_content/VendingMachine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

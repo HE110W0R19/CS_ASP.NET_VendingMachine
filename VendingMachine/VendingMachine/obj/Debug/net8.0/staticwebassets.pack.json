@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TuF\\Desktop\\P\\Intravision_Task\\VendingMachine\\VendingMachine\\wwwroot\\AdminPage\\AdminPage.html",
+      "PackagePath": "staticwebassets\\AdminPage\\AdminPage.html"
+    },
+    {
+      "Id": "C:\\Users\\TuF\\Desktop\\P\\Intravision_Task\\VendingMachine\\VendingMachine\\wwwroot\\AdminPage\\JavaScripts\\AdminScript.js",
+      "PackagePath": "staticwebassets\\AdminPage\\JavaScripts\\AdminScript.js"
+    },
+    {
+      "Id": "C:\\Users\\TuF\\Desktop\\P\\Intravision_Task\\VendingMachine\\VendingMachine\\wwwroot\\AdminPage\\css\\AdminStyleSheet.css",
+      "PackagePath": "staticwebassets\\AdminPage\\css\\AdminStyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VendingMachine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VendingMachine.props",
+      "PackagePath": "build\\VendingMachine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VendingMachine.props",
+      "PackagePath": "buildMultiTargeting\\VendingMachine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VendingMachine.props",
+      "PackagePath": "buildTransitive\\VendingMachine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
